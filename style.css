@@ -1,0 +1,15 @@
+#game-board {
+    border-collapse: collapse;
+    margin: auto;
+  }
+  
+  #game-board td {
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    text-align: center;
+    font-size: 72px;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
